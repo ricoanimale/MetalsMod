@@ -1,0 +1,16 @@
+[
+{
+  "modid": "metalsmod",
+  "name": "Metals Mod",
+  "description": "A mod that includes copper, bronze and steel.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://www.richardsearcy.com",
+  "updateUrl": "http://www.richardsearcy.com/update",
+  "authorList": ["Richard"],
+  "credits": "The Forge and FML guys, for making this mod possible",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
